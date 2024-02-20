@@ -1,0 +1,1 @@
+Dotfiles for polybar, bspwm
